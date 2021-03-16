@@ -4,7 +4,7 @@
 ---
 
 - Here are some ideas to get you started:
-  - 🔭 I’m currently working on WonderPlace.
-  - 🌱 I’m currently learning Android Studio.
+  - 🔭 I’m currently working on WonderPlace-project.
+  - 🌱 I’m currently learning HTML,CSS,JavaScript.
   - 🤔 I’m looking for help with Django techer.
   - 📫 How to reach me: sksmsgkstlr@naver.com
