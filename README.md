@@ -3,5 +3,3 @@
 
 
 ## Hi~Hello, I'm potential student! 🌟
-
-<center>🛠🛠</center>
