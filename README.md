@@ -1,10 +1,7 @@
-### Hi there 👋
-- My name is Hansik Hwang.🐳 I'm potential student! 🌟
+![header](https://capsule-render.vercel.app/api?type=waving&color=339af0&height=200&section=header&text=HansikHwang🐳&fontSize=70&fontColor=343a40)
 
----
 
-- Here are some ideas to get you started:
-  - 🔭 I’m currently working on WonderPlace-project.
-  - 🌱 I’m currently learning HTML,CSS,JavaScript.
-  - 🤔 I’m looking for help with Django techer.
-  - 📫 How to reach me: sksmsgkstlr@naver.com
+
+## Hi~Hello, I'm potential student! 🌟
+
+<center>🛠🛠</center>
