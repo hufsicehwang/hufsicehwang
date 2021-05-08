@@ -2,4 +2,4 @@
 
 
 
-## Hi~Hello, I'm potential student! 🌟
+## Hi~Hello, I'm potential person! 🌟
