@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=339af0&height=200&section=header&text=Hi~Hello!🐳&fontSize=40&fontColor=343a40)
 
 
-<h2 align="center">My name is HansikHwang 🌟</h2>
+<h2 align="center">My name is HansikHwang. 🌟</h2>
 
 
 <h2 align="center">🛠Tech Stack🛠</h2>
