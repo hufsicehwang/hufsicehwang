@@ -17,8 +17,8 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kakao Map-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google Map-4285F4?style=flat-square&logo=Google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KakaoMap-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GoogleMap-4285F4?style=flat-square&logo=Google&logoColor=white"/>
 </div>
 
