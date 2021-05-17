@@ -22,3 +22,5 @@
   <img src="https://img.shields.io/badge/GoogleMap-4285F4?style=flat-square&logo=Google&logoColor=white"/>
 </div>
 
+<h2 align="center">🦄 Me 🦄</h2>
+<div align="center">sksmsgkstlr@naver.com</div>
