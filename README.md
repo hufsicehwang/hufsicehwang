@@ -23,4 +23,8 @@
 </div>
 
 <h2 align="center">🦄 Me 🦄</h2>
-<div align="center">sksmsgkstlr@naver.com</div>
+<div align="center">
+  <address>
+    <a href="mailto:sksmsgkstlr@naver.com">sksmsgkstlr@naver.com</a>
+  </address>
+</div>
