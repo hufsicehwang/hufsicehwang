@@ -25,6 +25,6 @@
 <h2 align="center">🦄 Me 🦄</h2>
 <div align="center">
   <address>
-    <a href="mailto:sksmsgkstlr@naver.com">sksmsgkstlr@naver.com</a>
+    <img src="https://img.shields.io/badge/sksmsgkstlr@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   </address>
 </div>
