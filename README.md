@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/KakaoMap-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
   <img src="https://img.shields.io/badge/GoogleMap-4285F4?style=flat-square&logo=Google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </div>
 
 <h2 align="center">🦄 Me 🦄</h2>
